@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/asif-2123/LeetCode_DSA/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/asif-2123/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/asif-2123/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
