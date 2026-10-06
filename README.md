@@ -47,4 +47,16 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/asif-2123/LeetCode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asif-2123/LeetCode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
