@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+| [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/asif-2123/LeetCode_DSA/tree/master/0301-remove-invalid-parentheses) |
+## Math
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
