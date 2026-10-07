@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/asif-2123/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/asif-2123/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+| [0876-middle-of-the-linked-list](https://github.com/asif-2123/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
