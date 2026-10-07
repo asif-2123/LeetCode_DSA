@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,4 +76,28 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
