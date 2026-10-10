@@ -59,11 +59,13 @@
 | [0678-valid-parenthesis-string](https://github.com/asif-2123/LeetCode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asif-2123/LeetCode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asif-2123/LeetCode_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asif-2123/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Array
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asif-2123/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asif-2123/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asif-2123/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -111,4 +115,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asif-2123/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
