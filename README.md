@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/asif-2123/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asif-2123/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/asif-2123/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/asif-2123/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
