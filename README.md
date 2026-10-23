@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/asif-2123/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asif-2123/LeetCode_DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/asif-2123/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0301-remove-invalid-parentheses](https://github.com/asif-2123/LeetCode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/asif-2123/LeetCode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/asif-2123/LeetCode_DSA/tree/master/0856-score-of-parentheses) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/asif-2123/LeetCode_DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/asif-2123/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asif-2123/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/asif-2123/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asif-2123/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -147,6 +150,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/asif-2123/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/asif-2123/LeetCode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asif-2123/LeetCode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asif-2123/LeetCode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
