@@ -75,6 +75,7 @@
 | [0027-remove-element](https://github.com/asif-2123/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/asif-2123/LeetCode_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asif-2123/LeetCode_DSA/tree/master/0049-group-anagrams) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/asif-2123/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/asif-2123/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/asif-2123/LeetCode_DSA/tree/master/1254-number-of-closed-islands) |
@@ -113,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/asif-2123/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asif-2123/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/asif-2123/LeetCode_DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
