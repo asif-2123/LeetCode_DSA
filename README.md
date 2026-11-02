@@ -77,6 +77,7 @@
 | [0049-group-anagrams](https://github.com/asif-2123/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/asif-2123/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/asif-2123/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/asif-2123/LeetCode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/asif-2123/LeetCode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asif-2123/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -101,6 +102,7 @@
 | [0018-4sum](https://github.com/asif-2123/LeetCode_DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/asif-2123/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/asif-2123/LeetCode_DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/asif-2123/LeetCode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asif-2123/LeetCode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asif-2123/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/asif-2123/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/asif-2123/LeetCode_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asif-2123/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/asif-2123/LeetCode_DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
