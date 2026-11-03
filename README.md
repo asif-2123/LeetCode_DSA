@@ -88,6 +88,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asif-2123/LeetCode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asif-2123/LeetCode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asif-2123/LeetCode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asif-2123/LeetCode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [2235-add-two-integers](https://github.com/asif-2123/LeetCode_DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/asif-2123/LeetCode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asif-2123/LeetCode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Brainteaser
 |  |
 | ------- |
