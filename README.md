@@ -229,4 +229,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/asif-2123/LeetCode_DSA/tree/master/0455-assign-cookies) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/asif-2123/LeetCode_DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
