@@ -88,6 +88,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/asif-2123/LeetCode_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asif-2123/LeetCode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asif-2123/LeetCode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/asif-2123/LeetCode_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asif-2123/LeetCode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asif-2123/LeetCode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
