@@ -89,6 +89,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asif-2123/LeetCode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asif-2123/LeetCode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/asif-2123/LeetCode_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/asif-2123/LeetCode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asif-2123/LeetCode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asif-2123/LeetCode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -245,4 +246,12 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/asif-2123/LeetCode_DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/asif-2123/LeetCode_DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/asif-2123/LeetCode_DSA/tree/master/0183-customers-who-never-order) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/asif-2123/LeetCode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/asif-2123/LeetCode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
