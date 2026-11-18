@@ -249,6 +249,7 @@
 | [0183-customers-who-never-order](https://github.com/asif-2123/LeetCode_DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/asif-2123/LeetCode_DSA/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/asif-2123/LeetCode_DSA/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/asif-2123/LeetCode_DSA/tree/master/0196-delete-duplicate-emails) |
 ## Sliding Window
 |  |
 | ------- |
