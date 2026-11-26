@@ -129,6 +129,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asif-2123/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/asif-2123/LeetCode_DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/asif-2123/LeetCode_DSA/tree/master/2396-strictly-palindromic-number) |
+| [3360-stone-removal-game](https://github.com/asif-2123/LeetCode_DSA/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/asif-2123/LeetCode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asif-2123/LeetCode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Brainteaser
@@ -268,4 +269,5 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/asif-2123/LeetCode_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/asif-2123/LeetCode_DSA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
